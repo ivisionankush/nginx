@@ -1,0 +1,302 @@
+2020/06/16 13:48:47 [error] 7112#7136: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 13:51:44 [error] 7112#7136: *6 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:05:18 [crit] 3664#2808: *1 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:05:59 [crit] 3016#6664: *1 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:05:59 [crit] 3016#6664: *2 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:01 [crit] 3016#6664: *3 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:01 [crit] 3016#6664: *4 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:02 [crit] 3016#6664: *5 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:02 [crit] 3016#6664: *6 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:03 [crit] 3016#6664: *7 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:03 [crit] 3016#6664: *8 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:04 [crit] 3016#6664: *9 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:04 [crit] 3016#6664: *10 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:51 [crit] 3016#6664: *12 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:51 [crit] 3016#6664: *13 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:51 [crit] 3016#6664: *14 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:51 [crit] 3016#6664: *15 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:51 [crit] 3016#6664: *16 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:51 [crit] 3016#6664: *17 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:06:52 [crit] 3016#6664: *18 GetFileAttributesEx() "F:\Study
+ode js\Practice\Milkers\TenantService" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2020/06/16 14:06:52 [crit] 3016#6664: *19 CreateFile() "F:\Study
+ode js\Practice\Milkers\TenantService/favicon.ico" failed (123: The filename, directory name or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:07:25 [error] 7120#352: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 14:19:24 [emerg] 6072#3348: unknown directive "another" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:83
+2020/06/16 14:19:24 [alert] 6540#6304: worker process 6072 exited with code 1
+2020/06/16 14:19:24 [alert] 6540#6304: could not respawn worker
+2020/06/16 14:20:22 [emerg] 652#4676: unknown directive "another" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:83
+2020/06/16 14:30:53 [error] 4812#4412: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: milkers, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2020/06/16 14:30:53 [error] 4812#4412: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: milkers, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2020/06/16 14:30:54 [error] 4812#4412: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: milkers, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2020/06/16 14:32:21 [error] 4812#4412: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: milkers, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2020/06/16 15:36:05 [error] 6208#672: *3 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 15:43:56 [error] 5420#6084: *2 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 15:49:03 [error] 6908#7028: *13 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/api/user" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/user HTTP/1.1", host: "localhost"
+2020/06/16 15:49:03 [error] 6908#7028: *13 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/user"
+2020/06/16 16:01:57 [error] 4472#6168: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 17:27:50 [emerg] 6700#3380: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:29:35 [emerg] 2296#6932: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:04 [emerg] 6708#6280: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:47 [emerg] 6720#3584: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:48 [emerg] 5436#6372: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:48 [emerg] 4660#5488: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:49 [emerg] 6956#6036: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:50 [emerg] 5600#6724: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:50 [emerg] 5468#748: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 5708#2244: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 3324#5360: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 2604#5344: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 4996#2584: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 4716#6584: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 5444#1596: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 5192#4820: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 6916#3600: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 5400#6520: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:51 [emerg] 3568#4844: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 7092#6860: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 4548#3092: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 5460#2500: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6348#5508: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6112#5728: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 2996#2332: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 5284#6444: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6216#3588: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 5464#5440: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 1864#6160: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 3236#4312: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6704#4920: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 5260#5316: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6636#2096: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 7052#5688: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6228#6924: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 6276#6624: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:52 [emerg] 5644#5168: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5036#6460: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 3924#5216: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 6260#5512: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 1284#5928: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 6192#7020: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 3168#5516: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 368#6332: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 4676#6612: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 3756#1988: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 1440#3652: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5144#1436: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5732#380: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5044#412: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5448#6452: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 5184#6056: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 3904#6456: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 6992#5212: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 6032#5684: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:53 [emerg] 100#6096: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 7024#6828: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 3312#5756: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 3284#4436: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 4572#6384: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2068#5792: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2436#6800: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 1424#2156: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2296#6820: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 7152#3668: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 6600#6488: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2668#5412: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2368#6408: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 5780#1080: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 5344#2604: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 2148#5896: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 6524#3584: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 5304#2484: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 2244#5708: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:54 [emerg] 6928#6920: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 1496#4464: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6288#1796: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6736#4540: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6316#1716: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6372#5436: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 1528#6560: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 1596#5932: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6024#4820: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 2072#6880: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 5192#760: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 5596#176: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 7160#2500: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 3568#5400: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 4776#6588: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 3664#4204: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 3100#6264: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:55 [emerg] 6444#5440: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 2996#6112: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 3236#2776: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 6348#6416: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 5332#6924: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 2480#6756: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 6276#2056: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 5464#5816: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 5240#5540: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 5688#1012: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 2592#6140: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 6484#5148: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 7088#5696: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 4712#6620: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 2200#5644: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 6624#5348: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 1284#6260: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 5556#4492: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 6864#6268: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 7032#7100: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 436#6984: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 2792#5952: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:30:56 [emerg] 368#6192: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:45:22 [emerg] 4476#4320: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:92
+2020/06/16 17:47:52 [error] 4264#3712: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://192.168.99.100:8000/", host: "localhost:9000"
+2020/06/16 17:47:53 [error] 4264#3712: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8000/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/16 17:47:59 [error] 4264#3712: *8 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 17:48:44 [alert] 5736#5740: worker process 4884 exited with code C0000142
+2020/06/16 17:48:44 [alert] 5736#5740: could not respawn worker
+2020/06/16 17:48:44 [alert] 5700#5704: the event "ngx_master_5700" was not signaled for 5s
+2020/06/16 17:48:44 [alert] 5700#5704: could not respawn worker
+2020/06/16 17:48:44 [alert] 5564#5568: the event "ngx_master_5564" was not signaled for 5s
+2020/06/16 17:48:44 [alert] 5564#5568: could not respawn worker
+2020/06/16 17:48:44 [alert] 5648#5652: the event "ngx_master_5648" was not signaled for 5s
+2020/06/16 17:48:44 [alert] 5648#5652: could not respawn worker
+2020/06/16 17:48:44 [alert] 5504#5508: the event "ngx_master_5504" was not signaled for 5s
+2020/06/16 17:48:44 [alert] 5504#5508: could not respawn worker
+2020/06/16 17:48:44 [alert] 5556#5560: the event "ngx_master_5556" was not signaled for 5s
+2020/06/16 17:48:44 [alert] 5556#5560: could not respawn worker
+2020/06/16 18:29:22 [warn] 4592#4524: conflicting server name "localhost" on 0.0.0.0:9000, ignored
+2020/06/16 18:29:23 [warn] 4028#3316: conflicting server name "localhost" on 0.0.0.0:9000, ignored
+2020/06/16 18:36:56 [error] 3828#2472: *12 "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/users/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /users/ HTTP/1.1", host: "localhost"
+2020/06/16 18:36:56 [error] 3828#2472: *12 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/users/"
+2020/06/16 18:37:16 [error] 3828#2472: *12 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/users" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /users HTTP/1.1", host: "localhost"
+2020/06/16 18:37:19 [error] 3828#2472: *12 "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/users/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /users/ HTTP/1.1", host: "localhost"
+2020/06/16 19:21:26 [error] 3828#2472: *31 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/api/product/sds" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/product/sds HTTP/1.1", host: "localhost"
+2020/06/16 19:21:26 [error] 3828#2472: *31 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/api/product/sds"
+2020/06/16 19:34:45 [error] 3828#2472: *44 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 19:48:03 [emerg] 2600#4476: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:48:12 [emerg] 1132#4448: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:48:37 [emerg] 2436#1948: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:50:07 [emerg] 1700#1588: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:50:42 [emerg] 4392#3380: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:25 [emerg] 336#2492: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:25 [emerg] 1284#3124: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:25 [emerg] 2600#4408: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:25 [emerg] 2080#3912: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4728#4188: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4648#2900: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4640#4936: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4916#4892: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4848#3396: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 448#3576: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4484#3680: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 2808#2100: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:51:26 [emerg] 4496#2588: unexpected "}" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:88
+2020/06/16 19:54:42 [error] 4632#3680: *7 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 19:55:10 [error] 2764#4340: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/16 19:55:14 [error] 2764#4340: *4 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/16 19:55:17 [error] 2764#4340: *8 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/16 19:55:18 [error] 2764#4340: *8 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/16 19:55:18 [error] 2764#4340: *8 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/17 20:53:30 [error] 5668#5692: *5 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/17 20:53:56 [error] 5668#5692: *8 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/list HTTP/1.1", upstream: "http://192.168.99.100:8001/user/userlist", host: "localhost:9000"
+2020/06/17 20:54:17 [error] 5668#5692: *8 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/api/v1/user/list"
+2020/06/17 21:00:43 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/list HTTP/1.1", upstream: "http://192.168.99.100:8001/user/userlist", host: "localhost:9000"
+2020/06/17 21:00:44 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/api/v1/user/list"
+2020/06/17 21:00:51 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/list HTTP/1.1", upstream: "http://192.168.99.100:8001/user/userlist", host: "localhost:9000"
+2020/06/17 21:00:52 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/api/v1/user/list"
+2020/06/17 21:00:57 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.99.100:8001/", host: "localhost:9000"
+2020/06/17 21:00:58 [error] 5668#5692: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/17 21:03:04 [error] 4488#5112: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.99.100:8001/", host: "localhost:9000"
+2020/06/17 21:03:05 [error] 4488#5112: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/17 21:03:09 [error] 4488#5112: *6 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/17 21:03:15 [error] 4488#5112: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://192.168.99.100:8001/", host: "localhost:9000"
+2020/06/17 21:03:16 [error] 4488#5112: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://192.168.99.100:8001/favicon.ico", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/19 12:09:43 [error] 5952#3252: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/06/19 12:09:52 [error] 5952#3252: *4 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/user/users" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /user/users HTTP/1.1", host: "localhost:9000"
+2020/06/19 12:43:58 [error] 5952#3252: *14 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/user/users" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /user/users?userType=1&fields=%7B%22name%22:%201,%20%22email%22%20:1,%20%22contact%22%20:1,%20%22address%22%20:%201,%20%20%22isDelete%22%20:%201%7D&page=1&size=10 HTTP/1.1", host: "localhost:9000"
+2020/06/19 12:47:09 [error] 5952#3252: *14 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /api/v1/user/add HTTP/1.1", upstream: "http://192.168.99.100:8001/user/signup", host: "localhost:9000"
+2020/06/19 12:50:12 [error] 5952#3252: *14 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users?userType=1&fields=%7B%22name%22:%201,%20%22email%22%20:1,%20%22contact%22%20:1,%20%22address%22%20:%201,%20%20%22isDelete%22%20:%201%7D&page=1&size=10 HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users?userType=1&fields=%7B%22name%22:%201,%20%22email%22%20:1,%20%22contact%22%20:1,%20%22address%22%20:%201,%20%20%22isDelete%22%20:%201%7D&page=1&size=10", host: "localhost:9000"
+2020/06/19 12:51:18 [error] 5952#3252: *14 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users?userType=1&fields=%7B%22name%22:%201,%20%22email%22%20:1,%20%22contact%22%20:1,%20%22address%22%20:%201,%20%20%22isDelete%22%20:%201%7D&page=1&size=10 HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users?userType=1&fields=%7B%22name%22:%201,%20%22email%22%20:1,%20%22contact%22%20:1,%20%22address%22%20:%201,%20%20%22isDelete%22%20:%201%7D&page=1&size=10", host: "localhost:9000"
+2020/06/19 18:20:55 [emerg] 4724#4812: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:22:46 [emerg] 5020#4408: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:24:29 [emerg] 2308#2452: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:25:53 [emerg] 4760#5204: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:32:52 [emerg] 1976#2796: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:33:41 [emerg] 4496#3924: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:13 [emerg] 1328#4332: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:34 [emerg] 2228#3052: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:35 [emerg] 4784#3684: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:35 [emerg] 2060#1676: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:36 [emerg] 820#804: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:36 [emerg] 1988#1640: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:36 [emerg] 4672#1400: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:34:36 [emerg] 3784#3444: duplicate location "/api/v1/tenant" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:114
+2020/06/19 18:37:12 [error] 3772#3064: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/06/19 18:37:40 [error] 3772#3064: *4 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users", host: "localhost:9000"
+2020/06/19 18:38:06 [error] 3772#3064: *4 connect() failed (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users", host: "localhost:9000"
+2020/06/19 18:40:39 [emerg] 1916#4548: duplicate location "/api/v1/user" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:107
+2020/06/19 18:42:17 [emerg] 2940#1208: duplicate location "/api/v1/user" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:107
+2020/06/19 18:45:24 [error] 3252#1960: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users/delete HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users/delete", host: "localhost:9000"
+2020/06/19 18:45:35 [error] 3252#1960: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "DELETE /api/v1/user/delete HTTP/1.1", upstream: "http://192.168.99.100:8001/user/user", host: "localhost:9000"
+2020/06/19 18:46:17 [error] 3252#1960: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users", host: "localhost:9000"
+2020/06/19 18:46:45 [error] 3252#1960: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/users HTTP/1.1", upstream: "http://192.168.99.100:8001/user/users", host: "localhost:9000"
+2020/06/20 19:53:52 [emerg] 6104#5332: duplicate location "/api/v1/user" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:95
+2020/06/20 19:54:36 [emerg] 4308#1480: duplicate location "/api/v1/user" in C:\Users\Kadambari\Downloads\nginx-1.19.0/conf/nginx.conf:99
+2020/06/20 20:46:42 [error] 3128#5776: *18 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: , request: "DELETE /api/v1/user/delete HTTP/1.1", upstream: "http://192.168.99.100:8001/user", host: "localhost:9000"
+2020/06/30 13:22:29 [error] 3076#4536: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}/tenant/tenants?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://[::1]:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}/tenant/tenants?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:22:30 [error] 3076#4536: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}/tenant/tenants?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://127.0.0.1:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}/tenant/tenants?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:22:30 [error] 3076#4536: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}/tenant/tenants?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}"
+2020/06/30 13:23:28 [error] 3076#4536: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://127.0.0.1:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:23:29 [error] 3076#4536: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://[::1]:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:23:40 [error] 3076#4536: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://127.0.0.1:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:23:41 [error] 3076#4536: *12 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1} HTTP/1.1", upstream: "http://[::1]:3000/tenant?fields={%22name%22:1,%20%22tenantName%22:1,%22bank%22:1,%22balance%22:1,%22createdDt%22:1}", host: "localhost:9000"
+2020/06/30 13:23:58 [error] 3076#4536: *19 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/list HTTP/1.1", upstream: "http://127.0.0.1:3000/list", host: "localhost:9000"
+2020/06/30 13:23:59 [error] 3076#4536: *19 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/list HTTP/1.1", upstream: "http://[::1]:3000/list", host: "localhost:9000"
+2020/06/30 13:24:31 [error] 3076#4536: *24 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant HTTP/1.1", upstream: "http://127.0.0.1:3000/tenant", host: "localhost:9000"
+2020/06/30 13:24:32 [error] 3076#4536: *24 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant HTTP/1.1", upstream: "http://[::1]:3000/tenant", host: "localhost:9000"
+2020/06/30 13:25:48 [error] 3076#4536: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://127.0.0.1:3000/user", host: "localhost:9000"
+2020/06/30 13:25:49 [error] 3076#4536: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://[::1]:3000/user", host: "localhost:9000"
+2020/06/30 13:26:10 [error] 3076#4536: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant HTTP/1.1", upstream: "http://127.0.0.1:3000/tenant", host: "localhost:9000"
+2020/06/30 13:26:11 [error] 3076#4536: *28 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/tenant HTTP/1.1", upstream: "http://[::1]:3000/tenant", host: "localhost:9000"
+2020/06/30 13:37:18 [error] 3076#4536: *33 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://127.0.0.1:3000/user", host: "localhost:9000"
+2020/06/30 13:37:19 [error] 3076#4536: *33 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://[::1]:3000/user", host: "localhost:9000"
+2020/06/30 13:39:48 [error] 3076#4536: *36 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/api/v1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /api/v1 HTTP/1.1", host: "localhost:9000"
+2020/06/30 13:39:48 [error] 3076#4536: *36 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/api/v1" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /api/v1 HTTP/1.1", host: "localhost:9000"
+2020/06/30 13:40:22 [error] 3076#4536: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:9000"
+2020/06/30 13:40:23 [error] 3076#4536: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://[::1]:3000/", host: "localhost:9000"
+2020/06/30 13:41:00 [error] 3076#4536: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:9000"
+2020/06/30 13:41:01 [error] 3076#4536: *36 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://[::1]:3000/", host: "localhost:9000"
+2020/06/30 13:41:24 [error] 3076#4536: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:9000"
+2020/06/30 13:41:25 [error] 3076#4536: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://[::1]:3000/", host: "localhost:9000"
+2020/06/30 13:41:38 [error] 3076#4536: *48 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost:9000"
+2020/06/30 13:41:39 [error] 3076#4536: *48 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user/ HTTP/1.1", upstream: "http://[::1]:3000/", host: "localhost:9000"
+2020/08/07 16:18:48 [error] 4856#4792: *1 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 11:56:29 [error] 4792#5164: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://[::1]:4000/user", host: "localhost:9000"
+2020/08/08 11:56:31 [error] 4792#5164: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /api/v1/user HTTP/1.1", upstream: "http://127.0.0.1:4000/user", host: "localhost:9000"
+2020/08/08 13:21:50 [error] 4792#5164: *8 CreateFile() "C:\Users\Kadambari\Downloads\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 15:00:22 [notice] 7132#6048: signal process started
+2020/08/08 15:00:22 [error] 7132#6048: OpenEvent("Global\ngx_reload_5020") failed (2: The system cannot find the file specified)
+2020/08/08 15:01:03 [error] 6836#2856: *1 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 15:56:29 [error] 6836#2856: *8 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 16:16:58 [error] 3924#4632: *1 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 16:18:36 [error] 2716#3628: *1 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 16:19:05 [error] 4632#1948: *1 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:9000", referrer: "http://localhost:9000/"
+2020/08/08 16:19:20 [error] 4632#1948: *5 CreateFile() "F:\Study\node js\Practice\Milkers\TenantService\nginx-1.19.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "milkers:9000", referrer: "http://milkers:9000/"
